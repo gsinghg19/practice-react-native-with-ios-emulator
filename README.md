@@ -1,6 +1,8 @@
 # practice-react-native-with-ios-emulator
 
 Install xcode before hand for ios emulator software.
+check version of node ('nvm list')
+change node version by use of ; nvm use (version number); e.g 'nvm use 14' for node 14.This must be done for each new terminal and after each termination of the app in the emulator.
 run: ' npx react-native start ' to run metro for emulation software
 run: ' npx react-native run-ios ' to compile the app and inject into emulator
 
